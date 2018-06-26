@@ -1,5 +1,6 @@
 Parking-control
-Desenvolver um aplicativo simples para controle de estacionamento onde o usuário poderá registrar a entrada e saída dos veículos.
+
+ Aplicativo simples para controle de estacionamento onde o usuário poderá registrar a entrada e saída dos veículos.
 
 Os valores praticados pelo estacionamento devem ser parametrizados em uma tabela de preços com controle vigência. Exemplo: Valores válidos para o período de 01/01/2015 até 31/12/2015.
 
